@@ -1,0 +1,28 @@
+# Maven
+/target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS specific
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# BMAD specific files
+.bmad-core/
+.gemini/
+web-bundles/
+.ai/debug-log.md
