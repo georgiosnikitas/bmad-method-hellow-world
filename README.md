@@ -34,7 +34,7 @@ After building the project, you can run the calculator using the provided script
 ./run-madcalc.sh
 ```
 
-The application will then read mathematical expressions from an `input.txt` file.
+When run the application from docker, it will read the mathematical expressions from `input.txt` file.
 
 ## Running with Docker
 
